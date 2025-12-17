@@ -34,7 +34,9 @@
 
 ## 📫 Contact
 - 📧 **hpicadoabad@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/hector-picado-abad-561756258/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hector-picado-abad)
+
+
 
 ---
 ✨ _Thanks for visiting my profile!_
