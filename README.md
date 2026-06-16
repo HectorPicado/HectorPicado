@@ -1,23 +1,28 @@
 # 👋 Hi there, I'm Héctor Picado Abad
 
-🎓 Currently studying a higher degree in **Multiplatform Application Development**  
-💻 Passionate about backend development and clean code
+🎓 Graduated in **Multiplatform Application Development (DAM)**  
+💻 Passionate about mobile and desktop development  
+🏭 Recently finished internship at **ACCSYS TECH** – TI & RFID development team
 
-## 🚀 Technologies & Learning
+## 🚀 Technologies
 
-- Java (OOP)
-- Kotlin
+### Mobile & Desktop
+- Android · Kotlin · Java
+- C# · .NET · WPF
+
+### Databases
+- SQLite · MySQL · MongoDB
+
+### Other
 - Python
-- Unity
-- MySQL & MongoDB
-- Git and GitHub for version control
-- .NET
+- Odoo (ERP)
+- REST APIs
+- RFID technology
+- Git & GitHub
 
 ## 📫 Contact
 - 📧 **hpicadoabad@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/hector-picado-abad)
-
-
 
 ---
 ✨ _Thanks for visiting my profile!_
